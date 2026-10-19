@@ -1,8 +1,8 @@
 | Field | Value |
 | :--- | :--- |
 | Repository URL | https://github.com/bluis1/cse134B-hw3 |
-| Part 1 Deployed URL | https://YOUR-SITE.netlify.app/part1/cheese.html |
-| Part 2 Deployed URL | https://YOUR-SITE.netlify.app/ |
+| Part 1 Deployed URL | https://cse134b-hw3-bluis1.netlify.app/part1/cheese.html |
+| Part 2 Deployed URL | https://cse134b-hw3-bluis1.netlify.app |
 
 # CSE 134B HW3
 
