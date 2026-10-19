@@ -1,0 +1,60 @@
+/* Name: Bendict Luis */
+/* Repository: https://github.com/bluis1/cse134B-hw3 */
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #3d3026;
+    line-height: 1.6;
+    background-color: #fff9ef;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+h1 {
+    font-size: 2.5rem;
+    color: #724524;
+}
+
+h2 {
+    font-size: 1.6rem;
+    color: #895d37;
+}
+
+.latin {
+    font-style: italic;
+}
+
+#warning {
+    background-color: #ffe7c2;
+    padding: 1rem;
+    border-left: 4px solid #b87333;
+}
+
+blockquote {
+    border: 2px solid #d0aa75;
+    margin: 1.5rem 0;
+    padding: 1rem;
+    background-color: #fff2db;
+}
+
+a:hover {
+    color: #b5651d;
+    text-decoration: underline;
+}
+
+a:focus,
+input:focus,
+button:focus {
+    outline: 3px solid #b5651d;
+    outline-offset: 3px;
+}
+
+a {
+    color: #8b4513;
+}
+
+/* This color wins because its writtenn after the first one. */
+a {
+    color: #654321;
+}
