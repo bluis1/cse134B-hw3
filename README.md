@@ -6,11 +6,11 @@
 
 # CSE 134B HW3
 
-## Part 1 - Cheese Page
+## Part 1: Cheese Page
 
 For Part 1, I worked on the CSS for the cheese page that was provided. I then added different colors, fonts and spacing to make the page easier to read. I also styled the warning, quote and links, and added hover and focus effects.
 
-## Part 2 - Personal Portfolio
+## Part 2: Personal Portfolio
 
 For Part 2, I used my portfolio from HW2 and added CSS to make it look better. I decided to go with a theme inspired by Van Gogh's Starry Night, using different shades of blue and yellow. I also worked on the navigation, page sections and contact form to make everything look more organized.
 
